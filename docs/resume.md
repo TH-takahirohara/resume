@@ -3,7 +3,7 @@
 - フレームワーク: UIKit / Ruby on Rails / React / Next.js
 - ミドルウェア: MySQL
 - インフラ: Docker / AWS
-- CI/CD: CircleCI / Bitrise / AWS CodePipeline
+- CI/CD: CircleCI / Bitrise
 - プロジェクト管理: Redmine
 
 # 職務経歴
@@ -131,8 +131,8 @@
   - 特許作成
 
 # 業務外の活動
-- 個人開発として、Go言語をバックエンドに用いたアプリケーションの開発を行いました。([関連リンク](https://tropical-darkness-d5f.notion.site/Go-00da96e00008440d8fd1b953c2c418b7))
-- 2022年2月ごろから競技プログラミング(AtCoder)に取り組んでいます。([アカウント](https://atcoder.jp/users/THR))
+- 個人開発として、Go言語をバックエンドに用いたアプリケーションの開発を行いました。(関連リンク: https://tropical-darkness-d5f.notion.site/Go-00da96e00008440d8fd1b953c2c418b7)
+- 2022年2月ごろから競技プログラミング(AtCoder)に取り組んでいます。(アカウント: https://atcoder.jp/users/THR)
 
 # 自己PR
 - 2015年に印刷会社に新卒で入社し、そこで2019年9月まで半導体関連商材の研究開発を行っていました。その際にデータ解析のためのプログラムを作成したことをきっかけにプログラミングに興味を持ち、2019年10月から不動産賃貸仲介アプリを開発している現在の会社にエンジニアとして転職しました。それから3年強の間、iOSアプリ開発（Swift）、バックエンド開発（Ruby, Ruby on Rails）、およびフロントエンド開発（JavaScript, TypeScript, React）など幅広い経験を積んできました。未経験の技術を含む開発であっても、現実的な期間で一定の成果を上げる対応力に自信を持っています。
