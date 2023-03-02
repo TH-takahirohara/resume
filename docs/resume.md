@@ -118,7 +118,7 @@
   - リーダー: 1名、エンジニア: 4 ~ 5名(担当)
 
 - 使用技術
-  - Swift, UIKit, CallKit, PushKit
+  - Swift, UIKit
 
 - 担当業務
   - iOSアプリの開発
