@@ -1,10 +1,9 @@
 # 主な技術スタック
-- 言語: Swift / Ruby / TypeScript / JavaScript / Go(個人開発)
-- フレームワーク: UIKit / Ruby on Rails / React / Next.js
-- ミドルウェア: MySQL
-- インフラ: Docker / AWS
-- CI/CD: CircleCI / Bitrise
-- プロジェクト管理: Redmine
+- 言語: Swift (1~2年) / Ruby (1~2年) / TypeScript (~1年) / JavaScript (~1年) / Go(個人開発) (~1年)
+- フレームワーク: UIKit (1~2年) / Ruby on Rails (1~2年) / React (~1年)
+- ミドルウェア: MySQL (1~2年)
+- インフラ: Docker (1~2年) / AWS (1~2年)
+- CI/CD: CircleCI (1~2年) / Bitrise (1~2年)
 
 # 職務経歴
 ## 株式会社ietty(2019年10月 ~ 現在)
