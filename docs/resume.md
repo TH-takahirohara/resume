@@ -1,6 +1,6 @@
 ## アカウント
-- [GitHub](https://github.com/TH-takahirohara)
-- [AtCoder](https://atcoder.jp/users/THR)
+- GitHub: https://github.com/TH-takahirohara
+- AtCoder: https://atcoder.jp/users/THR
 
 ---
 ## 保有スキル
