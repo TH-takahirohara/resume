@@ -1,3 +1,8 @@
+## アカウント
+- [GitHub](https://github.com/TH-takahirohara)
+- [AtCoder](https://atcoder.jp/users/THR)
+
+---
 ## 保有スキル
 - Ruby(Ruby on Rails)によるバックエンドアプリケーションの開発
 - SwiftによるiOSアプリケーションの開発
